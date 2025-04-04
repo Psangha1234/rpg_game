@@ -35,7 +35,7 @@
   "name":"Rpg game",
   "resources":[
     {"id":{"name":"spr_guy","path":"objects/spr_guy/spr_guy.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_world","path":"rooms/rm_world/rm_world.yy",},},
     {"id":{"name":"spr_city_tileset","path":"sprites/spr_city_tileset/spr_city_tileset.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},},
@@ -48,7 +48,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_world","path":"rooms/rm_world/rm_world.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
