@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_healing",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_healing",
   "overriddenProperties":[],
