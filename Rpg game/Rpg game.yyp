@@ -35,6 +35,7 @@
   },
   "name":"Rpg game",
   "resources":[
+    {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},},
@@ -45,8 +46,10 @@
     {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
     {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
     {"id":{"name":"rm_world","path":"rooms/rm_world/rm_world.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"spr_apartment","path":"sprites/spr_apartment/spr_apartment.yy",},},
     {"id":{"name":"spr_city_tileset","path":"sprites/spr_city_tileset/spr_city_tileset.yy",},},
+    {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
@@ -67,6 +70,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"rm_world","path":"rooms/rm_world/rm_world.yy",},},
     {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
     {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
