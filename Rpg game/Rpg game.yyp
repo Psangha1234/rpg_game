@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"Rpg game",
   "resources":[
@@ -48,6 +48,7 @@
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},},
     {"id":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
     {"id":{"name":"rm_world","path":"rooms/rm_world/rm_world.yy",},},
+    {"id":{"name":"youtube_sJfgTH39OCA_audio","path":"sounds/youtube_sJfgTH39OCA_audio/youtube_sJfgTH39OCA_audio.yy",},},
     {"id":{"name":"spr_apartment","path":"sprites/spr_apartment/spr_apartment.yy",},},
     {"id":{"name":"spr_city_tileset","path":"sprites/spr_city_tileset/spr_city_tileset.yy",},},
     {"id":{"name":"spr_controls","path":"sprites/spr_controls/spr_controls.yy",},},
